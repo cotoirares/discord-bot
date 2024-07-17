@@ -1,6 +1,6 @@
 <h2> <b> Bot Administrator for Discord Server </b></h2>
 
-This project was designed as a bot which administers the basic rules of Discord servers. It was completely personalized for one server that was organising CSGO tournaments, having functionalities such as:
+This project was designed in 2021 (when I was 16) as a bot which administers the basic rules of Discord servers. It was completely personalized for one server that was organising CSGO tournaments, having functionalities such as:
 <ul>
   <li>Filterin messages, blocking the inappropriate ones;</li>
   <li>Adding music from YouTube to certain voice channels;</li>
