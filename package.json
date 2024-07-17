@@ -1,0 +1,37 @@
+{
+  "name": "cjebot",
+  "version": "1.0.0",
+  "description": "Bot de discord pentru CJE Cluj",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coty",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coty1/cjecluj-bot"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "0.0.0.0": "0.0.1-pre.alpha.1",
+    "avconv": "^3.1.0",
+    "bcrypt": "^5.0.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "install": "^0.13.0",
+    "node-pre-gyp": "^0.17.0",
+    "opus": "*",
+    "opusscript": "^0.0.8",
+    "prism-media": "^1.2.3",
+    "voice": "0.0.0",
+    "webpack": "^5.11.1",
+    "webpack-dev-server": "^3.11.0",
+    "yt-search": "^2.8.0",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.5.0"
+  }
+}
